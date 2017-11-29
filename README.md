@@ -1,2 +1,2 @@
 # rn-starter
-rn-starter project
+rn starter
